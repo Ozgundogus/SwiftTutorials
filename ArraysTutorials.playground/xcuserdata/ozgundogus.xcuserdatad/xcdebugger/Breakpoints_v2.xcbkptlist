@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "189BEA98-C754-4035-87C0-08404019D011"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5A52A3B0-7FCB-4E13-9A29-1ECAD5E3F300"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ArraysTutorials.playground"
+            startingColumnNumber = "1"
+            endingColumnNumber = "5"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "top"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
