@@ -5,7 +5,7 @@ for i in 3...10 {
     print("\(i+2) x 10 is \(i*5)")
 }
 
-var str  = "Fakers gonna"
+var str  = "Fakers gonna1"
 
 for _ in 1...5 {
     str += " fake"
@@ -47,14 +47,14 @@ while true {
     
     counter += 1
     if (counter % 2 == 0)  {
-//        counter -= 1   bu kod be counter == 1000 olunca bilgisayarın anası sikiliyor.
-        print("Lan ne yapıyorsun aq")
+//        counter -= 1   bu kod be counter == 1000 olunca bilgisayar donuyor
+        print(" ne yapıyorsun ")
     }
     if counter == 10 {
         break
     }
 }
-        // sürekli akan bir döngü yarattım asdkaksdkaksd 556 son dsadasdsa
+        // sürekli akan bir döngü yarattım 556 son sayı olmalı
 
 
 var words = ["a","b","c","d"]
